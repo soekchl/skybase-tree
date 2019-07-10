@@ -61,7 +61,7 @@ function getCommonMysql() {
       charset: 'utf8mb4',
       multipleStatements: true,
       connectionLimit: 1000
-    }
+    },
 `,
     index: {
       require: ``,
