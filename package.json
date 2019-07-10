@@ -1,0 +1,27 @@
+{
+  "name": "skybase-tree",
+  "version": "1.0.0",
+  "description": "main tree CURD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soekchl/skybase-tree.git"
+  },
+  "keywords": [
+    "skybase",
+    "tree",
+    "skybase-tree"
+  ],
+  "author": "Luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soekchl/skybase-tree/issues"
+  },
+  "homepage": "https://github.com/soekchl/skybase-tree#readme",
+  "dependencies": {
+    "skybase": "*"
+  }
+}
