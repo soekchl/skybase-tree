@@ -28,7 +28,9 @@ async function outFile(destBaseDir = '.', srcBaseDir = `${__dirname}/node_module
       }
     },
     'service': {
-      'tree.js': './service/skyapi/tree.js'
+      'skyapi': {
+        'tree.js': './service/skyapi/tree.js'
+      }
     },
     'sql': {
       'tree.sql': './sql/tree.sql'
